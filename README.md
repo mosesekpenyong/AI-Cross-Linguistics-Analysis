@@ -36,3 +36,6 @@ Language-specific rule parsing
 Supports tone-bearing unit analysis
 Compatible with Mendeley Data outputs
 Designed for typological studies and NLP dataset preparation
+
+Datasets: The datasets used to implementation the adaptive framework are located in:
+Ekpenyong, M. E. et al. (2025). AI-Assisted Syllabification and Tone Annotation Datasets for South-South Nigerian Languages”, Mendeley Data, V1, https://doi.org/10.17632/5kgjnhzsmd.1
